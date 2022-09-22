@@ -5,4 +5,4 @@
 
 This project is using [matterjs](https://github.com/liabru/matter-js) as the base of the simulations. Go check out!
 
-**This project is very very soon to be finished**
+**This project is very very soon to be finished and all the simulations is only for studying purposes.**
